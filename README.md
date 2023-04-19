@@ -1,6 +1,6 @@
 # CWBRun
 
-![preview](CwbRun.jpg)
+![preview](CwbRun.png)
 
 Projeto construído a partir de um desafio proposto no curso de Desenvolvimento de Sistemas do SENAI. 
 
